@@ -136,7 +136,7 @@ function App() {
 
       <h1>Gestion des étudiants</h1>
 
-      {/* Formulaire */}
+      {}
       <div className="formulaire">
 
         <h2>
